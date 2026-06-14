@@ -3,7 +3,7 @@
 
 I’m a game programmer with a passion for building clean, scalable gameplay systems and tools. I graduated with high honors (**4.36 GPA**) in Game Programming, and I love working with engines, solving technical problems, and bringing ideas to life through code.
 
-🔧 Technical Skills
+## 🔧 Technical Skills
 **Languages:** C# (excellent), C++ (intermediate), Java, Python, JavaScript
 
 **Engines:** Unity (gameplay, physics, UI, input, optimization), Unreal Engine (C++, animation blueprints)
